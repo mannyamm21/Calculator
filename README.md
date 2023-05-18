@@ -7,7 +7,7 @@ This project is a simple calculator designed using HTML, CSS, and JavaScript. It
 
 Files:
 1. index.html: Contains the HTML structure of the calculator.
-2. style.css: Defines the visual styling of the calculator using CSS.
+2. css.css: Defines the visual styling of the calculator using CSS.
 3. script.js: Implements the functionality of the calculator using JavaScript.
 
 Instructions:
